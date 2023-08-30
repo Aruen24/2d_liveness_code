@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e0f44b5-36e8-46ae-ae79-b3baf28b425c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/DBFace/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/DBFace/common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBFace/datas/12_Group_Group_12_Group_Group_12_728.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBFace/datas/selfie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBFace/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DBFace/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBFace/model/DBFace.py" beforeDir="false" afterPath="$PROJECT_DIR$/DBFace/model/DBFace.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBFace/result/easy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBFace/result/hard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBFace/result/merge.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBFace/result/mid.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBFace/result/selfie.centerface.draw.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBFace/result/selfie.draw.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBFace/result/selfie.retinaface.draw.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DBFace" />
+  </component>
+  <component name="ProjectId" id="1wnyYB82IUB657N0SFDe4fFMuVr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spc_liveness_data_processing" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.cropFaceDepth">
+    <configuration name="cropFaceDepth" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="create_datasets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cropFaceDepth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="create_datasets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DBFace" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DBFace/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read_raw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="create_datasets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/read_raw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.cropFaceDepth" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.read_raw" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e0f44b5-36e8-46ae-ae79-b3baf28b425c" name="Default Changelist" comment="" />
+      <created>1629108691721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629108691721</updated>
+      <workItem from="1629108700463" duration="2288000" />
+      <workItem from="1630058287827" duration="2016000" />
+      <workItem from="1630288251922" duration="599000" />
+      <workItem from="1631513250147" duration="22462000" />
+      <workItem from="1631784588019" duration="1958000" />
+      <workItem from="1631949294871" duration="631000" />
+      <workItem from="1632272576452" duration="1265000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="110" width="800" height="675" key="#Deployment" timestamp="1631949330230">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state x="432" y="110" width="800" height="675" key="#Deployment/65.24.1535.876@65.24.1535.876" timestamp="1631949330230" />
+    <state x="550" y="255" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1630059171344">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state x="550" y="255" key="#com.intellij.fileTypes.FileTypeChooser/65.24.1535.876@65.24.1535.876" timestamp="1630059171344" />
+    <state x="620" y="207" key="FileChooserDialogImpl" timestamp="1631696179436">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state x="620" y="207" key="FileChooserDialogImpl/65.24.1535.876@65.24.1535.876" timestamp="1631696179436" />
+    <state width="1491" height="223" key="GridCell.Tab.0.bottom" timestamp="1631783687468">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state width="1491" height="223" key="GridCell.Tab.0.bottom/65.24.1535.876@65.24.1535.876" timestamp="1631783687468" />
+    <state width="1491" height="223" key="GridCell.Tab.0.center" timestamp="1631783687468">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state width="1491" height="223" key="GridCell.Tab.0.center/65.24.1535.876@65.24.1535.876" timestamp="1631783687468" />
+    <state width="1491" height="223" key="GridCell.Tab.0.left" timestamp="1631783687468">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state width="1491" height="223" key="GridCell.Tab.0.left/65.24.1535.876@65.24.1535.876" timestamp="1631783687468" />
+    <state width="1491" height="223" key="GridCell.Tab.0.right" timestamp="1631783687468">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state width="1491" height="223" key="GridCell.Tab.0.right/65.24.1535.876@65.24.1535.876" timestamp="1631783687468" />
+    <state x="334" y="84" key="SettingsEditor" timestamp="1631606946817">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state x="334" y="84" key="SettingsEditor/65.24.1535.876@65.24.1535.876" timestamp="1631606946817" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/create_datasets$cropFaceDepth.coverage" NAME="cropFaceDepth Coverage Results" MODIFIED="1631673428003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/create_datasets$main.coverage" NAME="main Coverage Results" MODIFIED="1631611464040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DBFace" />
+    <SUITE FILE_PATH="coverage/create_datasets$read_raw.coverage" NAME="read_raw Coverage Results" MODIFIED="1631609229904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

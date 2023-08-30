@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6b16b58-e933-4cd0-8078-65c1b1b477aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1wwNXrgQNoGGdMQDq62cPcrctfI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ndk" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/quant_model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6b16b58-e933-4cd0-8078-65c1b1b477aa" name="Default Changelist" comment="" />
+      <created>1629365733674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629365733674</updated>
+      <workItem from="1629365741529" duration="985000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="110" key="#Deployment" timestamp="1629365977618">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state x="432" y="110" key="#Deployment/65.24.1535.876@65.24.1535.876" timestamp="1629365977618" />
+    <state x="620" y="207" key="FileChooserDialogImpl" timestamp="1629366120041">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state x="620" y="207" key="FileChooserDialogImpl/65.24.1535.876@65.24.1535.876" timestamp="1629366120041" />
+    <state x="739" y="182" key="ftp.server.browser" timestamp="1629365975710">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state x="739" y="182" key="ftp.server.browser/65.24.1535.876@65.24.1535.876" timestamp="1629365975710" />
+  </component>
+</project>
